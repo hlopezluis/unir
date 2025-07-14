@@ -1,13 +1,13 @@
 {
-  "alumnos": [
-    { "nombre": "Ana", "nota": 7.2, "ranking": 5 },
-    { "nombre": "Luis", "nota": 8.7, "ranking": 9 },
-    { "nombre": "María", "nota": 8.5, "ranking": 8 },
-    { "nombre": "Carlos", "nota": 7.8, "ranking": 6 },
-    { "nombre": "Lucía", "nota": 8.0, "ranking": 7 },
-    { "nombre": "Pedro", "nota": 2.5, "ranking": 1 },
-    { "nombre": "Sofía", "nota": 3.9, "ranking": 2 },
-    { "nombre": "Jorge", "nota": 5.2, "ranking": 3 },
-    { "nombre": "Elena", "nota": 6.5, "ranking": 4 }
+  "alumnos": [    
+    { "nombre": "Luis", "nota": 8.7, "ranking": 2 },
+    { "nombre": "Ana", "nota": 9.2, "ranking": 1 },
+    { "nombre": "Lucía", "nota": 7.8, "ranking": 5 },
+    { "nombre": "Elena", "nota": 2.5, "ranking": 9 },
+    { "nombre": "Pedro", "nota": 6.5, "ranking": 6 },
+    { "nombre": "María", "nota": 8.5, "ranking": 3 },
+    { "nombre": "Sofía", "nota": 5.2, "ranking": 7 },
+    { "nombre": "Carlos", "nota": 8.0, "ranking": 4 },
+    { "nombre": "Jorge", "nota": 3.9, "ranking": 8 }    
   ]
 }

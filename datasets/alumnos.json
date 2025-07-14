@@ -1,13 +1,16 @@
 {
   "alumnos": [    
+    { "nombre": "Héctor", "nota": 9.1, "ranking": 10 },
     { "nombre": "Luis", "nota": 8.7, "ranking": 8 },
-    { "nombre": "Ana", "nota": 9.2, "ranking": 9 },
+    { "nombre": "Ana", "nota": 8.8, "ranking": 9 },
     { "nombre": "Lucía", "nota": 7.8, "ranking": 5 },
     { "nombre": "Elena", "nota": 2.5, "ranking": 1 },
     { "nombre": "Pedro", "nota": 6.5, "ranking": 4 },
+    { "nombre": "Jandro", "nota": 9.5, "ranking": 11 },
     { "nombre": "María", "nota": 8.5, "ranking": 7 },
     { "nombre": "Sofía", "nota": 5.2, "ranking": 3 },
     { "nombre": "Carlos", "nota": 8.0, "ranking": 6 },
+    { "nombre": "Upe", "nota": 10, "ranking": 12 },
     { "nombre": "Jorge", "nota": 3.9, "ranking": 2 }    
   ]
 }
